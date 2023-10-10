@@ -1,0 +1,157 @@
+
+  
+  body {
+  
+}
+
+.main {
+  
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #fafafa;
+  font-family: Arial, sans-serif;
+  background-image: url(./midia/fundociz.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+  
+  .login-container {
+  text-align: center;
+  background-color: white;
+  border-bottom-left-radius: 0%;
+  padding: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  max-width: 350px;
+  width: 90%;
+  font-size: 12px
+  
+  
+  }
+  h2 {
+  font-family: 'Billabong', sans-serif;
+  font-size: 2.5em;
+  color: #3897f0;
+  margin-bottom: 20px;
+
+
+  }
+  input {
+  margin: 10px 0;
+  padding: 10px;
+  width: calc(100% - 20px);
+  border: 1px solid #dbdbdb;
+  border-radius: 5px;
+  font-size: 1em;
+  font-size: 15px;
+  }
+  button {
+  margin-top: 20px;
+  padding: 10px 125px;
+  background-color:#37393b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: 300ms;
+  
+  }
+  button:hover {
+  background-color: #a5a5a5;
+  }
+  .error-message {
+  color: red;
+  margin-top: 10px;
+  font-size: 1.2em;
+  }
+.sen{
+ color: #3897f0;
+ display: flex;
+ flex-direction:column ;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+.botao-1{
+margin-bottom: 20px;
+margin-top: 20px;
+  padding: 10px 50px;
+  background-color: #37393b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.1em;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 25px;
+}
+.botao-1 img {
+  width: 30px;
+  height: 30px;
+  
+  
+}
+.insta{
+  width: 200px;
+  height: 70px;
+}
+.cave{
+  width: 30px;
+  height: 40px;
+  margin-bottom: 15px;
+  margin-right: 8px;
+}
+.cadastro{
+  
+  background-color: white;
+  
+  padding: 8px;
+  margin-top: 20px;
+  height: 25px;
+  display: flex;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  width: 340px;
+  border-bottom-left-radius: 0%
+}
+p{
+  
+  font-size:16px;
+  display: flex;
+  align-items:center;
+  text-align: center  ;
+  color: #37393b;
+  margin-left: 35px;
+
+}
+a{
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  text-align: center;
+  margin-left: 17px;
+  margin-top: 6px;
+  color:#0095F6 ;
+  text-decoration: none;
+}
+ h4{
+  color: white;
+  align-items: center; 
+text-align: center;
+ }
+ .google{
+  height: 40px;
+  width: 134.28px;
+  margin-left: 35px;
+ }
+ .microsoft{
+  height: 40px;
+  width: 110.76px;
+  margin-left: 20px;
+ }
+ 

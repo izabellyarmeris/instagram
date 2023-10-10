@@ -1,0 +1,199 @@
+body {
+    
+}
+
+
+.conteudo {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: black;
+}
+nav {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    padding-left: 1.5rem;
+    padding-top: 1.5rem;
+    justify-content: space-between;
+    height: 100vh;
+    width: 220px;
+    font-size: 20px;
+    border-right: 1px solid lightgrey;
+    position: fixed;
+    background-color: white ;
+}
+
+nav>img {
+    width: 120px;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+nav li a {
+    font-weight: lighter;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+nav li a:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.primeiro {
+    font-weight: bold;
+}
+
+nav span {
+    padding-bottom: 5rem;
+}
+
+/* conteudo principal */
+
+main {
+    margin-left: calc(220px + 1.5rem);
+    width: 880px;
+}
+
+header {
+    padding-top: 3rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+header ul {
+    display: flex;
+    gap: 15px;
+}
+
+header li img {
+    width: 65px;
+    border: 3px solid #77DD77;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+header li img:hover {
+    opacity: 0.7;
+}
+
+/* conteudo com os posts */
+
+.conteudoPost {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5rem;
+    gap: 2rem;
+}
+
+.card {
+    width: 500px;
+
+}
+
+.cardCima {
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+}
+
+
+.cardCima img {
+    width: 32px;
+}
+
+.esquerda {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.esquerda span {
+    display: flex;
+    align-items: center;
+    font-weight: lighter;
+}
+
+.card>img {
+    border: 1px solid lightgrey;
+}
+
+.cardBaixo {
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.cardBaixo p:hover {
+    color: #E1306C;
+    cursor: pointer;
+}
+
+
+
+/* lateral direita */
+
+aside {
+    width: 250px;
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+aside img {
+    width: 60px;
+    border-radius: 50%;
+}
+
+.asideCima {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.asideCima div {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.asideCima>p {
+    font-size: 12px;
+    color: #5B51D8;
+    cursor: pointer;
+    
+}
+
+aside ul {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+aside ul li:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

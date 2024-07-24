@@ -21,4 +21,4 @@ Feed de Posts: Exibição de postagens de usuários.
 - React
 
 # APERTE PARA VER O PROJETO !
-- [Clique aqui para navegar no projeto](https://izabellyarmeris.github.io/instagram/http://instagram-omega-woad.vercel.app/)
+- [Clique aqui para navegar no projeto](http://instagram-omega-woad.vercel.app/)

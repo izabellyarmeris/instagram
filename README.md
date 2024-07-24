@@ -4,7 +4,7 @@ Este projeto é um clone básico do Instagram desenvolvido utilizando HTML, CSS,
 
 # Descrição
 
-Criei o Instagram Clone com um design diferente do comum.
+Criei o Instagram Clone com um design diferente! Página login está responsiva.
 Entre como usuario: "bell"
 Senha:"senha"
 
@@ -21,4 +21,4 @@ Feed de Posts: Exibição de postagens de usuários.
 - React
 
 # APERTE PARA VER O PROJETO !
-- [Clique aqui para navegar no projeto](https://izabellyarmeris.github.io/instagram/http://https://instagram-omega-woad.vercel.app/)
+- [Clique aqui para navegar no projeto](https://izabellyarmeris.github.io/instagram/http://instagram-omega-woad.vercel.app/)

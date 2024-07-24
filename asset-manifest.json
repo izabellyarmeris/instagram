@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7Binstagram%7D/static/css/main.dbed6e69.css",
+    "main.js": "/%7Binstagram%7D/static/js/main.b42de70b.js",
+    "static/js/787.427d94b5.chunk.js": "/%7Binstagram%7D/static/js/787.427d94b5.chunk.js",
+    "static/media/fundociz.jpg": "/%7Binstagram%7D/static/media/fundociz.2df965ee4242e9ac4b84.jpg",
+    "static/media/instaLogo.png": "/%7Binstagram%7D/static/media/instaLogo.792a74f6a947a64992c7.png",
+    "static/media/loginho.png": "/%7Binstagram%7D/static/media/loginho.54eee201fdedad1b01eb.png",
+    "static/media/microsoft.jpeg": "/%7Binstagram%7D/static/media/microsoft.8aae547ad022156ceb85.jpeg",
+    "static/media/instagram.png": "/%7Binstagram%7D/static/media/instagram.42a94b60f00dbc989e9f.png",
+    "static/media/kirb.jpg": "/%7Binstagram%7D/static/media/kirb.97d313e2532fa5e7fdcb.jpg",
+    "static/media/google.jpeg": "/%7Binstagram%7D/static/media/google.b18f06d60ed99807b282.jpeg",
+    "static/media/faceb.png": "/%7Binstagram%7D/static/media/faceb.a7b8a4cfc9ef0f3a7256.png",
+    "index.html": "/%7Binstagram%7D/index.html",
+    "main.dbed6e69.css.map": "/%7Binstagram%7D/static/css/main.dbed6e69.css.map",
+    "main.b42de70b.js.map": "/%7Binstagram%7D/static/js/main.b42de70b.js.map",
+    "787.427d94b5.chunk.js.map": "/%7Binstagram%7D/static/js/787.427d94b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbed6e69.css",
+    "static/js/main.b42de70b.js"
+  ]
+}
